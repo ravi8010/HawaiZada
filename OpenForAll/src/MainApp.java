@@ -2,7 +2,7 @@
 public class MainApp {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Brother from Krishan Narayan thakur");
+		System.out.println("selected only in KNT by Krishan Narayan thakur");
 
 	}
 
